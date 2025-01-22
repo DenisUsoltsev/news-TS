@@ -26,7 +26,7 @@ API_KEY=Ваш api key
 
 Источник
 
-    [Оригинальное приложение](https://github.com/rolling-scopes-school/news-JS/)
+[Оригинальное приложение](https://github.com/rolling-scopes-school/news-JS/)
 
 
 ## Требования к заданию
